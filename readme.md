@@ -1,5 +1,9 @@
 > ODS to Markdown transformation has been done thanks to this great tool: https://github.com/kennytm/ods2md
 
+```bash
+./ods2md.py input_file.ods > output_file.md
+```
+
 ## Some ranking information
 
 - [Link for ranks of conferences](https://people.rennes.inria.fr/Olivier.Sentieys/?p=276)
