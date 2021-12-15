@@ -10,7 +10,6 @@
 - [Link for ranks of security conferences](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
 
 ## Hardware & embedded
-
 | Conferences | Abstract   | Full paper | Notification | Rank | Location             | Link                                                   |
 |:------------|:-----------|:-----------|:-------------|:-----|:---------------------|:-------------------------------------------------------|
 | Recosoc     | 2019-04-28 | 2019-05-05 | 2019-04-06   | B    | York, UK             | https://www.recosoc.org                                |
@@ -18,6 +17,7 @@
 | DASIP       | 2020-10-25 | 2020-01-11 | 2020-11-30   | B    | Budapest, Hungary    | https://dasip-conference.org                           |
 | CODES+ISSS  | 2021-02-04 | 2021-09-04 | 2021-05-07   | A+   | Online               | https://esweek.org/cases/                              |
 | FPL         | 2021-03-22 | 2021-03-29 | 2021-05-14   | A    | Dresden, Germany     | https://cfaed.tu-dresden.de/fpl2021/welcome-to-fpl2021 |
+| CARRV       | 2021-05-07 | 2021-05-14 | 2021-05-24   |      | Online               | https://carrv.github.io/2021/                          |
 | ICCAD       | 2021-05-21 | 2021-05-28 | 2021-07-17   | A+   | Online               | https://iccad.com                                      |
 | FPGA        | 2021-06-09 | 2021-06-09 | 2021-11-30   | A+   | Monterrey (CA, USA)  | http://www.isfpga.org                                  |
 | ICFPT       | 2021-07-12 | 2021-07-19 | 2021-09-27   | A    | Auckland, New Zeland | http://www.icfpt.org                                   |
