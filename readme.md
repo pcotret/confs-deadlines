@@ -6,7 +6,7 @@
 
 ## Some ranking information
 
-- [Link for ranks of conferences](https://people.rennes.inria.fr/Olivier.Sentieys/?p=276)
+- [Link for ranks of conferences](https://www.gdr-soc.cnrs.fr/conferences/)
 - [Link for ranks of security conferences](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
 
 ## Hardware & embedded
