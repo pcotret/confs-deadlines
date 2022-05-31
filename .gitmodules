@@ -1,0 +1,3 @@
+[submodule "ods2md"]
+	path = ods2md
+	url = https://github.com/pcotret/ods2md

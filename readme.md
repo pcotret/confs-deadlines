@@ -37,16 +37,17 @@
 
 | Conferences | Abstract   | Full paper | Notification | Rank | Location             | Link                                                      |
 | :---------- | :--------- | :--------- | :----------- | :--- | :------------------- | :-------------------------------------------------------- |
-| CRYPTARCHI  | N/A        | N/A        | N/A          | C    | Porquerolles, France | https://labh-curien.univ-st-etienne.fr/cryptarchi         |
-| CHES        | N/A        | N/A        | N/A          | A    | Online               | https://ches.iacr.org                                     |
+| AsianHOST   | 2022-07-25 | 2022-07-25 | 2022-09-05   |      | Singapore            | http://asianhost.org/2022/index.htm                       |
 | WOOT        | 2022-02-08 | 2022-02-08 | 2022-03-03   |      | San Francisco, USA   | https://www.ieee-security.org/TC/SP2022/WOOT22/index.html |
 | Usenix      | 2022-02-01 | 2022-02-01 | 2022-05-02   |      | Boston, USA          | https://www.usenix.org/conference/usenixsecurity22        |
 | HOST 2021   | 2022-01-22 | 2022-01-22 | 2022-02-22   |      | Washington, USA      | http://www.hostsymposium.org/call-for-paper.php           |
 | CCS         | 2022-01-14 | 2022-01-14 | 2022-03-10   |      | Los Angeles, USA     | https://www.sigsac.org/ccs/CCS2022                        |
 | SP          | 2021-12-02 | 2021-12-02 | 2022-03-04   |      | Oakland, USA         | https://www.ieee-security.org/TC/SP2022/                  |
-| HASP        | 2021-09-18 | 2021-09-18 | 2021-02-10   | A+/A | Athens, Greece       | https://haspworkshop.org/2021/index.html                  |
 | Asia CCS    | 2021-07-30 | 2021-07-30 | 2021-10-18   |      | Nagasaki, Japan      | https://asiaccs2022.conferenceservice.jp/                 |
 | NDSS        | 2021-07-23 | 2021-07-23 | 2021-10-29   |      | San Diego, USA       | https://www.ndss-symposium.org/ndss2022/call-for-papers   |
+| HASP        | 2021-09-18 | 2021-09-18 | 2021-02-10   | A+/A | Athens, Greece       | https://haspworkshop.org/2021/index.html                  |
+| CHES        | N/A        | N/A        | N/A          | A    | Online               | https://ches.iacr.org                                     |
+| CRYPTARCHI  | N/A        | N/A        | N/A          | C    | Porquerolles, France | https://labh-curien.univ-st-etienne.fr/cryptarchi         |
 
 ## VMs, OS, languages
 
